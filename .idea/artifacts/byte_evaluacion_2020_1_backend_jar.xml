@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="byte-evaluacion-2020-1-backend:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/byte_evaluacion_2020_1_backend_jar</output-path>
+    <root id="archive" name="byte-evaluacion-2020-1-backend.jar">
+      <element id="module-output" name="byte-evaluacion-2020-1-backend" />
+    </root>
+  </artifact>
+</component>
